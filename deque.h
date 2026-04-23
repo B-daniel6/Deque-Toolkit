@@ -1,3 +1,8 @@
+/*
+# Names: Brandon Daniel and Cameron O'Dell
+# Date: 4/24/2026
+# File: deque.h
+*/
 #ifndef DEQUE_H
 #define DEQUE_H
 

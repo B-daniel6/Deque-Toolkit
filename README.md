@@ -1,5 +1,7 @@
 # Deque-Toolkit
 
+By: Brandon Daniel and Cameron O'Dell
+
 ## Project Overview
 
 This repository contains a templated `deque<T>` implementation using a dynamic double array (`T** blockmap`). The container supports efficient push and pop operations at both ends, random access with `operator[]`, and automatic map resizing.
